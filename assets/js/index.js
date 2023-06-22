@@ -1,0 +1,11 @@
+//CSS3 Social Sidebar
+
+/* BROWSER COMPATILITY
+--INTERNET EXPLORER 9+
+--GOOGLE CHROME
+--MOZILLA FIREFOX
+--OPERA
+--SAFARI
+*/
+
+// OTHER THINGS I MADE - https://codepen.io/collection/HduGy
